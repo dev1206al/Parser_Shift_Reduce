@@ -1,0 +1,4 @@
+S → D / M / A 
+D → d d
+M → c c c 
+A → D D

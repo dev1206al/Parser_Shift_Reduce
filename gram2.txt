@@ -1,0 +1,4 @@
+S → P
+P → E E
+E → id
+P → S S 

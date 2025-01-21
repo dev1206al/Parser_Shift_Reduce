@@ -1,0 +1,8 @@
+S → n a
+N → n n 
+A → a a
+S → N A 
+n → nombre
+a → apellido
+S → S a 
+S → N a

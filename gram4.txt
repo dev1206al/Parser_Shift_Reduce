@@ -1,0 +1,34 @@
+S → D / M / A 
+D → # #
+M → ch ch ch ch ch
+A → D D 
+# → 0
+# → 1
+# → 2
+# → 3
+# → 4
+# → 5
+# → 6
+# → 8
+# → 9
+# → 7 
+ch → b
+ch → c
+ch → d
+ch → e
+ch → f
+ch → g
+ch → i
+ch → j
+ch → l
+ch → m
+ch → n
+ch → o
+ch → p
+ch → r
+ch → s 
+ch → t
+ch → u
+ch → v
+ch → y
+ch → a
